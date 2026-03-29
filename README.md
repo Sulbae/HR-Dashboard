@@ -12,7 +12,7 @@ Berikut pertanyaan bisnis yang diharapkan dapat terjawab melalui proyek ini.
 * Bagaimana tingkat Attration karyawan setiap Department?
 * Bagaimana tingkat Attration karyawan berdasarkan Job Role?
 * Bagaimana tingkat Attration karyawan berdasarkan Education level?
-* Bagaimana tingkat Attration karyawan berdasrkan Monthly Salary?
+* Bagaimana tingkat Attration karyawan berdasrakan Monthly Salary?
 * Apa saja 10 faktor yang berpengaruh signifikan terhadap tingginya attration rate?
 * Bagaimana strategi yang harus dijalankan oleh tim HR dalam mengelola karyawannya agar bisa menahan Attration Rate tetap rendah?
 
