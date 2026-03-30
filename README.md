@@ -9,11 +9,10 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 Berdasarkan permasalahan bisnis yang telah dijelaskan, maka fokus utama pada proyek ini adalah membuat dashboard sebagai platform monitoring metrik-metrik penting untuk kebutuhan analisis faktor-faktor yang memiliki pengaruh signifikan terhadap attrition rate. Perusahaan perlu menyusun strategi yang tepat untuk dapat menjaga produktivitas tetap stabil dan meningkatkan efisiensi kinerja para karyawannya. 
 
 Berikut pertanyaan bisnis yang diharapkan dapat terjawab melalui proyek ini.
-* Bagaimana tingkat Attration karyawan setiap Department?
-* Bagaimana tingkat Attration karyawan berdasarkan Job Role?
-* Bagaimana tingkat Attration karyawan berdasarkan Education level?
-* Bagaimana tingkat Attration karyawan berdasrakan Monthly Salary?
-* Apa saja 10 faktor yang berpengaruh signifikan terhadap tingginya attration rate?
+* Bagaimana pengaruh Salary terhadap tingkat Attrition?
+* Bagaimana pengaruh Pengalaman Kerja terhadap tingkat Attrition?
+* Bagaimana pengaruh Kepuasan Kerja terhadap tingkat Attrition?
+* Apa saja 10 faktor yang paling berpengaruh signifikan terhadap tingginya attration rate?
 * Bagaimana strategi yang harus dijalankan oleh tim HR dalam mengelola karyawannya agar bisa menahan Attration Rate tetap rendah?
 
 ### Cakupan Proyek
